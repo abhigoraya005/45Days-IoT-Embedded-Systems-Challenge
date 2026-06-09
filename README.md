@@ -1,74 +1,83 @@
 # 45 Days IoT & Embedded Systems Challenge 🚀
 
-Welcome to my 45 Days Learning Challenge focused on **IoT, Embedded Systems, Arduino, STM32, Sensors, Automation, and Real-Time System Development**.
+Welcome to my 45 Days Learning Challenge focused on IoT, Embedded Systems, Arduino, STM32, Sensors, Automation, and Real-Time System Development.
 
 This repository documents my daily hands-on learning journey where I build practical projects, experiment with hardware, and improve my understanding of embedded technologies through consistent practice.
 
-## Objective
+---
+
+# Objective
 
 The goal of this challenge is to:
 
 * Develop strong fundamentals in Embedded Systems and IoT
 * Gain practical experience with Arduino and STM32 development
-* Learn sensor interfacing and hardware communication
-* Build automation and real-time monitoring projects
-* Maintain consistency through daily project development and documentation
-* Create a professional project portfolio while learning publicly
+* Learn sensor interfacing and automation systems
+* Build real-world hardware projects
+* Improve consistency through daily project development
+* Create a professional engineering portfolio publicly on GitHub
 
-## Technologies & Topics Covered
+---
+
+# Technologies & Topics Covered
 
 * Arduino Uno
-* STM32 Blue Pill
+* STM32
 * Embedded C Programming
-* Sensors & Actuators
-* GPIO, ADC, PWM, UART
-* Servo Motors
 * IR Sensors
-* LDR Sensors
+* Servo Motors
 * Buzzers & LEDs
-* Circuit Design & Breadboarding
-* Automation Logic
+* Breadboard Circuit Design
+* Automation Systems
+* Real-Time Monitoring
 * IoT Fundamentals
-* Firebase & Cloud Integration (Upcoming)
+* Git & GitHub
 
-## Repository Structure
+---
+
+# Repository Structure
 
 Each day contains:
 
-* Source code
-* Circuit/setup images
-* Project explanation
-* Learning outcomes
-* Documentation
+* Source Code
+* Circuit Images
+* Project Documentation
+* Learning Outcomes
+* Project Demonstration
 
-Example:
+---
 
-```text
-Day-01-LED-Blink
-Day-02-Visitor-Counter
-Day-03-STM32-ADC
-```
+# Challenge Progress
 
-## Challenge Progress
+| Day   | Project                                             | Status      |
+| ----- | --------------------------------------------------- | ----------- |
+| Day 1 | LED Blink Embedded Systems Project                  | ✅ Completed |
+| Day 2 | Bidirectional Visitor Counter using Arduino Uno     | ✅ Completed |
+| Day 3 | Smart Parking System using IR Sensors & Servo Motor | ✅ Completed |
 
-| Day   | Project                                         | Status      |
-| ----- | ----------------------------------------------- | ----------- |
-| Day 1 | Embedded Systems Beginner Project               | ✅ Completed |
-| Day 2 | Bidirectional Visitor Counter using Arduino Uno | ✅ Completed |
+---
 
-More projects will be added daily throughout the challenge.
+# Current Learning Focus
 
-## Learning Approach
+* Embedded Systems
+* Arduino Programming
+* Automation Projects
+* Sensor Interfacing
+* Real-Time Logic Systems
+* IoT Development
+
+---
+
+# Learning Approach
 
 This challenge is focused on:
 
 * Learning by building
-* Understanding concepts practically
-* Writing and managing clean project documentation
-* Developing consistency and engineering discipline
+* Practical implementation
+* Daily consistency
+* Real-world project development
+* Documentation and version control
 
-## Connect With Me
+---
 
-I’ll also be sharing my learning journey and project updates on LinkedIn throughout this challenge.
-
-Thank you for visiting this repository.
+Learning daily and building consistently 🚀
