@@ -55,6 +55,7 @@ Each day contains:
 | Day 2 | Bidirectional Visitor Counter using Arduino Uno     | ✅ Completed |
 | Day 3 | Smart Parking System using IR Sensors & Servo Motor | ✅ Completed |
 | Day 4 | RFID Attendance System using Arduino Uno & RC522    | ✅ Completed |
+        
 
 
 ---
